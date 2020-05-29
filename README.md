@@ -1,6 +1,6 @@
 # hello-world-
 project learn how to code 
 
-hi everyone 
+Hi everyone 
 
-I am italian and I love cooking. So cliché, I know!
+I am learning how to code! 
